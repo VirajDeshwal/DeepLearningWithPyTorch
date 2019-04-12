@@ -1,2 +1,2 @@
 # DeepLearningWithPyTorch
-Deep Learning repository with PyTorch
+Deep Learning repository with PyTorch.
